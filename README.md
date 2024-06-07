@@ -1,14 +1,6 @@
 # 👋 Hi, I'm Steven!
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="https://twitter.com/tu_perfil"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white"></a>
-  <a href="mailto:tu_email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://tu_portafolio.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=wordpress&logoColor=white"></a>
-</p>
-
----
 
 ## About Me
 
