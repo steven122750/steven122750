@@ -1,16 +1,22 @@
-# 👋 Hola, soy Steven!
+# 👋 Hi, I'm Steven!
 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-perfil/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://twitter.com/tu_perfil"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white"></a>
+  <a href="mailto:tu_email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://tu_portafolio.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=wordpress&logoColor=white"></a>
+</p>
 
 ---
 
-## Sobre Mí
+## About Me
 
-¡Hola! Soy un apasionado desarrollador de software con un enfoque en la creación de soluciones robustas y escalables. Mi experiencia se centra en el desarrollo web y móvil, con un fuerte dominio de tecnologías como **Java Spring Boot**, **Angular** y **MySQL**. Disfruto trabajando en equipo y colaborando en proyectos de código abierto, donde puedo contribuir y aprender de otros desarrolladores. Siempre estoy en busca de nuevos desafíos y oportunidades para expandir mis habilidades técnicas y creativas. ¡No dudes en contactarme para cualquier colaboración o proyecto interesante!
+Hello! I'm a passionate software developer with a focus on creating robust and scalable solutions. My experience is centered around web and mobile development, with a strong command of technologies like **Java Spring Boot**, **Angular**, and **MySQL**. I enjoy working in teams and collaborating on open-source projects, where I can contribute to and learn from other developers. I'm always on the lookout for new challenges and opportunities to expand my technical and creative skills. Feel free to reach out to me for any collaboration or interesting project!
 
 ---
 
-## 🔧 Tecnologías & Herramientas
+## 🔧 Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"> 
@@ -34,28 +40,28 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steven122750&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven122750&layout=compact&theme=radical" alt="Lenguajes Más Usados">
+  <img src="https://github-readme-stats.vercel.app/api?username=steven122750&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven122750&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-## 📫 Cómo Contactarme
+## 📫 How to Reach Me
 
-Puedes contactarme a través de cualquiera de las siguientes plataformas:
+You can reach me through any of the following platforms:
 
 - **Email**: cardona21507@gmail.com
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=steven122750&style=flat-square&color=blue" alt="Contador de visitas">
+  <img src="https://komarev.com/ghpvc/?username=steven122750&style=flat-square&color=blue" alt="Profile Views">
 </p>
 
 ---
 
 <p align="center">
-  <b>¡Gracias por visitar mi perfil! 😊</b>
+  <b>Thanks for visiting my profile! 😊</b>
 </p>
 
