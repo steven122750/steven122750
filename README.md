@@ -67,7 +67,7 @@
   - El software actualmente está en capacidad de detectar al empleado y su horario de trabajo, concediéndole una salida o una entrada automáticamente.
   - Estos registros se comunican directamente con la página administrativa.
     
-- 📊 **Desarrollo de software contable** para la presentación de la información exógena ante la DIAN utilizando tecnologías de Microsoft VBA, Excel, Google Cloud API y Google Sheets.
+- 📊 **Desarrollo de software contable** para la presentación de la información exógena ante la DIAN utilizando Python con pandas, PyQt5 y openyml
 
 ### 💼 Trabajo Freelance para TecniSoftware
   
