@@ -99,9 +99,7 @@ No dudes en conectarte conmigo en las redes sociales:
   <a href="https://www.linkedin.com/in/steven-cardona-523775302">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=flash">
   </a>
-  <a href="https://github.com/steven122750">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=flash">
-  </a>
+
 </p>
 
 ---
