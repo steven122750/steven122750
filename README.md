@@ -1,38 +1,27 @@
-# 👋 Hola, soy Steven!
-
 ## Sobre Mí
 
-¡Hola! Soy un apasionado desarrollador de software enfocado en crear soluciones robustas y escalables. Mi experiencia se centra en el desarrollo web y móvil, con un fuerte dominio de tecnologías como **Java Spring Boot**, **Angular** y **MySQL**. Disfruto trabajar en equipo y colaborar en proyectos de código abierto, donde puedo contribuir y aprender de otros desarrolladores. Siempre estoy en busca de nuevos desafíos y oportunidades para expandir mis habilidades técnicas y creativas. ¡No dudes en contactarme para cualquier colaboración o proyecto interesante!
+Soy un desarrollador de software especializado en Backend con Spring Boot, enfocado en el diseño, desarrollo e implementación de API REST robustas y eficientes. Mi experiencia incluye depuración y QA, garantizando la calidad y el rendimiento óptimo de las aplicaciones.
+
+Tengo un sólido dominio en MySQL para la gestión de bases de datos y en arquitectura de microservicios, lo que me permite desarrollar sistemas escalables y modulares. Además, poseo conocimientos en AWS, utilizando servicios como Lambda, API Gateway y S3 para la implementación de soluciones eficientes y seguras. También cuento con experiencia en despliegues rápidos utilizando GitHub y Railway.
+
+Aunque mi enfoque principal es el desarrollo Backend, también tengo habilidades en Frontend con Angular, lo que me permite colaborar en el ciclo completo de desarrollo de aplicaciones.
+
+Me gusta trabajar en equipos multidisciplinarios, adaptándome a metodologías ágiles y fomentando la mejora continua. También valoro la colaboración en proyectos de código abierto como una oportunidad para compartir conocimientos y seguir creciendo profesionalmente.
 
 ---
 
 ## 🔧 Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&animation=flash"> 
-  <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&animation=flash"> 
-  <img src="https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-RESTful%20APIs-FF5733?style=for-the-badge&logo=rest&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&animation=flash">
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&animation=flash">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&animation=flash">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=flash">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&animation=flash">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&animation=flash">
+  <img src="https://img.shields.io/badge/-API%20REST-FF5733?style=for-the-badge&logo=rest&logoColor=white&animation=flash">
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&animation=flash">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=flash">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-UX/UI-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-POO-00599C?style=for-the-badge&logo=c&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-MVC-888888?style=for-the-badge&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-Patrones%20de%20Diseño-009688?style=for-the-badge&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-Google%20Cloud%20API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white&animation=flash">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&animation=flash">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&animation=flash">
 </p>
 
 ---
